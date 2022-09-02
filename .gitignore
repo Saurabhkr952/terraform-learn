@@ -7,4 +7,6 @@
 #tf state files
 *.tfstate
 *.backup
-
+ 
+#hcl cache
+*.hcl
