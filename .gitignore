@@ -10,3 +10,6 @@
  
 #hcl cache
 *.hcl
+
+#crash log
+crash.log
